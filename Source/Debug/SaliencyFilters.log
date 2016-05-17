@@ -1,0 +1,51 @@
+﻿  test_saliency.cpp
+  superpixel.cpp
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(161): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(172): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(223): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(247): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\code\cplusplus\saliencyfilters\saliencyfilters\superpixel.cpp(268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  saliency.cpp
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(44): warning C4305: '=': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(46): warning C4305: '=': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(89): warning C4018: '<': signed/unsigned mismatch
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(106): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(129): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(154): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(202): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\code\cplusplus\saliencyfilters\saliencyfilters\saliency.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  permutohedral.cpp
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(454): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(457): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(496): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(501): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(709): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(716): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  filter.cpp
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(454): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(457): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(496): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(501): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(709): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\cplusplus\saliencyfilters\saliencyfilters\permutohedral.h(716): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+  SaliencyFilters.vcxproj -> D:\code\cplusplus\SaliencyFilters\SaliencyFilters\Debug\SaliencyFilters.exe
