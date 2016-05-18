@@ -9,3 +9,7 @@ These codes are not implemented by me. They are from the paper's author. However
 The files in Source folder are the visual studio 2015 complete project. The files in EXE are the executable code. You can drag the input image onto the .exe and wait, the saliency map will pop out.
 
 Installation: Windows 7 + OpenCV 2.4.9 + Visual Studio 2015.
+
+Run in command line:
+
+SaliencyFilters.exe 0098.jpg
